@@ -1,7 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: hsl(214, 16%, 80%);
+}
+
+.body{
+   background-color: hsl(214, 16%, 80%);
 }
 
 .main {
